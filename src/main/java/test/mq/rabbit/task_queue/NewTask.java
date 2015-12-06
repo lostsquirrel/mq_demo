@@ -1,4 +1,4 @@
-package test.mq.task_queue;
+package test.mq.rabbit.task_queue;
 
 import java.util.Random;
 import java.util.concurrent.TimeoutException;

@@ -1,4 +1,4 @@
-package test.mq.hello;
+package test.mq.rabbit.hello;
 
 import java.util.concurrent.TimeoutException;
 
